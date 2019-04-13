@@ -107,7 +107,7 @@ Plugin 'gcmt/wildfire.vim'
 Plugin 'sjl/gundo.vim'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'suan/vim-instant-markdown'
-Plugin 'lilydjwg/fcitx.vim'
+"Plugin 'lilydjwg/fcitx.vim'
 
 " 插件列表结束
 call vundle#end()
@@ -115,8 +115,8 @@ filetype plugin indent on
 " <<<<
 
 " 配色方案
-set background=dark
-colorscheme solarized
+"set background=dark
+"colorscheme solarized
 "colorscheme molokai
 "colorscheme phd
 
