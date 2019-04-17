@@ -1,5 +1,7 @@
 " 更新时间：2016-03-30 12:15:21
 
+colorscheme default
+
 " 定义快捷键的前缀，即 <Leader>
 let mapleader=";"
 
